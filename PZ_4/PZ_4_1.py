@@ -24,3 +24,4 @@ if A < B:                # Условие
     print(f"количество N = {count}")
 else:
     print("A больше или равно B")
+    print()

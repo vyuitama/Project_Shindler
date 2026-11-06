@@ -27,3 +27,4 @@ ostatok = (pramoyg % square)
 # Выводим значения
 print(f"Можно разместить квадратов: {сount_sq}")
 print(f"Остаток: {ostatok}")
+print()
